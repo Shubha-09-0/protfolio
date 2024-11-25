@@ -1,0 +1,61 @@
+.main{
+    height: 20vh;
+    width: 100%;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    height: 20vh;
+    width: 20%;
+    
+    align-self: center;
+    
+    
+    
+}
+.contents{
+    height: 5vh;
+    width: 50%;
+    
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+.img{
+    height: 20vh;
+    width: 80%;
+
+}
+
+.smain{
+    height: 80vh;
+    width: 100%;
+    border: 2px solid black;
+    
+}
+.first{
+    height: 19vh;
+    width: 10%;
+    border: 2px solid black;
+}
+.second{
+    height: 19vh;
+    width: 10%;
+    border: 2px solid black;
+}
+.Third{
+    height: 10vh;
+    width: 10%;
+    border: 2px solid black;   
+}
+.Fourth{
+    height: 10vh;
+    width: 10%;
+    border: 2px solid black;   
+}
+}
